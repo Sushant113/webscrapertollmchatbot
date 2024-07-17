@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+nltk
+gensim
+sentence-transformers
+transformers
+torch
+pymilvus
+rank_bm25
+streamlit
